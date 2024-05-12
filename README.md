@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Melovi</h1>
+<h3 align="center">A passionate Computer Engineering student in Turkey</h3>
+
 - 👋 Hi, I’m @veryvroosh 🚗
 - 👀 I’m interested in Anime, Gaming, Computer Science! 🗾🎮🖥️
 - 🌱 I’m currently learning OOP, and Full-Stack! 💻
